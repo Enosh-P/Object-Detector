@@ -41,7 +41,7 @@ class MyDialog(QWidget):
 
         #Image Button
         self.img = QPushButton('Image', self)
-        self.img.setToolTip('Click to provide <b>IMAGE</b>i as input')
+        self.img.setToolTip('Click to provide <b>IMAGE</b> as input')
 
         #Video Button
         self.video = QPushButton('Video', self)
